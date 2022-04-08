@@ -1,0 +1,59 @@
+.index.html #h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:ffffff;
+  }
+  body.home{
+    background-color:#1D1132;
+  }
+  .btn-primary{
+    background-color:#FFBD59;
+    color:#1D1132;
+  }
+  .my-4{
+    background-color:#FFBD59;
+    opacity:1;
+    width: 90%;
+  }
+  .btn-header{
+    background-color:#FFBD59;
+    font-family: ';
+    color:#1D1132;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 40%;
+  }
+  
+  .post-title{
+    color:lightgray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .post-subtitle{
+    color:lightgray;
+  }
+  
+  body.about{
+    background-color:#1D1132;
+    color:white;
+  }
+  a{
+    color:#fff;
+  }
+
+  .edu-1{
+      text-decoration: underline;
+      text-decoration-thickness: 5px;
+  }
+  .resume-contact{
+      text-transform:lowercase;   
+  }
+  .resume-contact{
+      font-family:Arial, Helvetica, sans-serif;
+  }
+  .welcome{
+      text-shadow: 2px 2px 2px #FFBD59;
+  }
+
+  

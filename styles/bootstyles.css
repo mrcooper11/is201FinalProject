@@ -1,0 +1,83 @@
+body {
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.subheader{
+    float: right;
+}
+
+.footer{
+    bottom: 5px;
+    padding-top: 10px;
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    position:relative;
+    color:white;
+}
+
+.header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    z-index: 99;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 10px;
+
+}
+
+.navlink{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+
+.tableauPlaceholder{
+    margin-right: auto;
+    margin-left: auto;
+    position:absolute;
+    border-top: solid 5px black;
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 25%;
+    padding-right: 25%;
+    
+}
+
+.logo{
+    color:white;
+}
+
+.intro{
+    padding-left:25%;
+    padding-right:25%;
+    height: 400px;
+    margin-top: -20px;
+}
+
+.overview{
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+}
+
+.lists{
+    font-size: 22px;
+    color:white;
+}
+
+
+.bio{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
